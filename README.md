@@ -57,5 +57,5 @@ This project was built and validated inside a virtualized hypervisor sandbox env
 
 1. **Clone the project repository to your target machine:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/SecurOps-Linux-Auditor.git](https://github.com/YOUR_USERNAME/SecurOps-Linux-Auditor.git)
+   git clone [https://github.com/Fardinn-Khan/SecurOps-Linux-Auditor.git]
    cd SecurOps-Linux-Auditor
