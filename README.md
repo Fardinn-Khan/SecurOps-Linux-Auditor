@@ -59,3 +59,9 @@ This project was built and validated inside a virtualized hypervisor sandbox env
    ```bash
    git clone [https://github.com/Fardinn-Khan/SecurOps-Linux-Auditor.git]
    cd SecurOps-Linux-Auditor
+   
+# Make the script executable (optional but recommended)
+chmod +x auditscript.py
+
+# Run the script using Python 3
+python3 auditscript.py
