@@ -62,5 +62,5 @@ This project was built and validated inside a virtualized hypervisor sandbox env
    
 2. **Make the script executable & Run the script using Python 3
 ```bash
-chmod +x auditscript.py
-python3 auditscript.py
+   chmod +x auditscript.py
+   python3 auditscript.py
