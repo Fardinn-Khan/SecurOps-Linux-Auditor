@@ -61,6 +61,6 @@ This project was built and validated inside a virtualized hypervisor sandbox env
    cd SecurOps-Linux-Auditor
    
 2. **Make the script executable & Run the script using Python 3
-```bash
+   ```bash
    chmod +x auditscript.py
    python3 auditscript.py
